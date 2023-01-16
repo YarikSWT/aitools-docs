@@ -16,7 +16,7 @@ doks:
             image: true
         nav:
             - item_name: Documentation
-              item_url: /
+              item_url: https://icons8.com/docs
             - item_name: Background Remover
               item_url: https://icons8.com/bgremover
               external_url: true
